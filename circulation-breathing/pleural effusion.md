@@ -104,6 +104,7 @@ Pulmonary collapse and consolidation
 Elevated hemidiaphragm
 
 Pleural tumours/extrapleural fat
+____
 
 ### MANAGEMENT
 
