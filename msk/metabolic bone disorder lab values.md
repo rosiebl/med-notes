@@ -41,5 +41,14 @@
 	phosphate NORMAL
 	ALP NORMAL
 	PTH NORMAL
+	
+___
 
-
+CONDITION | CALCIUM | PHOSPHATE | ALP | PTH
+------------ | ------------- | ------------
+osteoporosis | normal  | normal | normal | normal
+osteomalacia | low  | low | high | high
+primary hyperparathyroidism | high | low | high | high
+chronic kidney disease leading to secondary hyperparathyroidism | low | high | high | high
+Paget's disease | normal | normal | high | normal
+osteopetrosis | normal | normal | normal | normal

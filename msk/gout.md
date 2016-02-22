@@ -150,16 +150,18 @@ _____________________
 #### INVESTIGATIONS
 
 Xray:
-	- early stages: only soft-tissue swelling
-	- later: well-defined ‘punched out’ erosions in juxta-articular bone
-	- no sclerotic reaction; joint spaces preserved until late
+
+- early stages: only soft-tissue swelling
+- later: well-defined ‘punched out’ erosions in juxta-articular bone
+- no sclerotic reaction; joint spaces preserved until late
 
 Synovial fluid aspiration:
-	- Joint fluid microscopy - negatively birefringent urate crystals (long, slender, needle-shaped).
-	- Turbid, yellow colour.
-	- Decreased viscosity.
-	- WBC/mm3: 5-50,000
-	- Neutrophils: ~80%
+
+- Joint fluid microscopy - negatively birefringent urate crystals (long, slender, needle-shaped).
+- Turbid, yellow colour.
+- Decreased viscosity.
+- WBC/mm3: 5-50,000
+- Neutrophils: ~80%
 
 Serum uric acid: usually raised, although level falls immediately after an acute attack.
 
