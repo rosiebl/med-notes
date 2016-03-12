@@ -41,4 +41,3 @@ Important ddx:
 	- risk factors - age, high cholesterol, blood pressure, smoker, alcohol?
 - biliary dyspepsia
 - pancreatitis
-- 
