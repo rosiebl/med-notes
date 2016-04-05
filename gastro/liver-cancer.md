@@ -1,1 +1,0 @@
-metastasis to the liver should not cause liver decompensation - even where the liver is full of mets liver function is usually normal as there is sufficient normal tissue to support normal function. 
