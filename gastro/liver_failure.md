@@ -64,7 +64,7 @@ Decreasing risk of cerebral oedema as the onset of encephalopathy is increasingl
 
 - HELLP syndrome
 
-### SIGNS
+### FEATURES
 
 - **jaundice**
 
@@ -75,6 +75,12 @@ Decreasing risk of cerebral oedema as the onset of encephalopathy is increasingl
 - asterixis/flap
 
 - constructional apraxia (can't copy 5 point star?)
+
+- coagulopathy (increased INR/PT): risk of bleeding
+
+- hypoalbuminaemia: leukonychia, oedema
+
+- ascites
 
 Signs of chronic liver disease suggest acute-on-chronic/decompensated liver failure.
 
@@ -222,9 +228,11 @@ Ascites:
 - low-salt diet
 - weigh daily
 - diuretics
+- watch out for spontaneous bacterial peritonitis (infection of ascitic fluid)
 
 Bleeding:
 
+- coagulopathy: decreased factors II, VII, IX & X causes increased INR
 - Vitamin K 10mg/day IV for 3d
 - platelets, FFP + blood as needed
 - ± endoscopy

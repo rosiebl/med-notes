@@ -27,3 +27,13 @@
 - constrictive pericarditis
 
 - veno-occlusive disease
+
+### FEATURES
+
+- ascites
+
+- splenomegaly
+
+- portosystemic shunt including oesophageal varices (± life-threatening upper GI bleed)
+
+- caput medusae (enlarged superficial periumbilical veins)

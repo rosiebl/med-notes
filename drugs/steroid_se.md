@@ -4,7 +4,7 @@ SYSTEM | ADVERSE RXN
 ------- | ---------
 GI | pancreatitis, candidiasis, oesophageal ulceration, peptic ulceration
 Musculoskeletal | myopathy, osteoporosis, fractures, growth suppression
-Endocrine | adrenal suppression, Cushing's syndromer
+Endocrine | adrenal suppression, Cushing's syndrome
 CNS | aggravated epilepsy, depression, psychosis
 Eye | cataracts, glaucoma, papilloedema
 Immune | incresed susceptibility to and severity of infections

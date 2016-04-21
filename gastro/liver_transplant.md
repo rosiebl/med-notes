@@ -41,3 +41,66 @@ Contraindications:
 
 
 ### CHRONIC LIVER FAILURE
+
+Indication for liver transplant in chronic disease is generally because of advanced cirrhosis. Childs-Pugh grading used as a selection criterion.
+
+#### INDICATIONS
+
+- advanced cirrhosis secondary to:
+	- alcoholic liver disease
+	- hepatitis (B/C/autoimmune)
+	- primary biliary cirrhosis
+	- Wilson's disease
+	- alpha1-antitrypsin deficiency
+	- primary sclerosing cholangitis
+- hepatocellular cancer
+	- 1 nodule <5cm or 2-3 nodules <3cm
+	
+#### CONTRAINDICATIONS
+
+- extrahepatic malignancy
+- multiple tumours
+- severe cardiorespiratory disease
+- systemic sepsis
+- HIV infection
+- non-compliance with drug therapy
+
+
+### IMMUNOSUPRESSION REGIMES
+
+- ciclosporin
+- tacrolimus + azathioprine
+- mycophenolate mofetil + prednisolone
+
+### COMPLICATIONS
+
+#### REJECTION
+
+Hyperacute rejection is because of ABO incompatibility.
+
+Acute rejection: 
+
+- T cell mediated
+- at 5-10 days
+- pt feels unwell with pyrexia and tender hepatomegaly
+- often managed with immunosuppression.
+
+#### OTHER
+
+- sepsis, esp Gram -ve and CMV
+
+- hepatic artery thrombosis
+
+- chronic rejection, at 6-9/12
+
+- disease recurrence
+
+- graft-versus-host disease
+
+### PROGNOSIS
+
+Average pt survival at 1y is ~80%.
+
+5y survival is 60-90%, depending on the pre-op disease.
+
+Poor pre-transplant renal function may predict poor outcome.
