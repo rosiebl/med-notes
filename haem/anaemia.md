@@ -66,7 +66,7 @@ Causes:
 
 - anaemia of chronic disease (can be microcytic)
 
-- bone marrow failure
+- bone marrow failure/aplastic anaemia
 
 - renal failure
 
@@ -91,7 +91,7 @@ Causes:
 
 - reticulocytosis
 
-- cytotoxics w.g. hydroxycarbamide
+- cytotoxics e.g. hydroxycarbamide
 
 - myelodysplastic syndrome
 
