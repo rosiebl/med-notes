@@ -153,7 +153,7 @@ Rubeosis iridis: new vessels on iris. Occurs late, may lead to glaucoma.
 
 #### SYMMETRIC SENSORY POLYNEUROPATHY
 
-'Glvoe and stocking' numbness, tingling + pain.
+'Glove and stocking' numbness, tingling + pain.
 
 Can be worse at night.
 
