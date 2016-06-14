@@ -12,6 +12,8 @@ A typical patient is a young man with episodic macroscopic haematuria.
 
 Recovery is often rapid between attacks.
 
+May present a few days after an URTI (cf. post-streptococcal GN which appears weeks after URTI).
+
 ### INVESTIGATIONS
 
 Renal biopsy:
