@@ -149,7 +149,7 @@ Try to control:
 
 **Clopidogrel** 75mg/d: prevents further strokes + MIs.
 
-**Aspirin** 300mg/d, down to 75mg/d after 2 weeks. also helps, though less than clopidogrel.
+**Aspirin** 300mg/d, down to 75mg/d after 2 weeks. Also helps, though less than clopidogrel.
 
 When using aspirin, add **dipyridamole** MR 200mg/12h.
 
