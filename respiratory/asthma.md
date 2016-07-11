@@ -60,7 +60,7 @@ Mortality: ~1000 asthma deaths in UK in 2009, 50% were >65y.
 - allergy
 - FHx
 
-The home, especially the bedroom: pets, carpet, feather ipllows/duvet, floor cushions/soft furnishings?
+The home, especially the bedroom: pets, carpet, feather pillows/duvet, floor cushions/soft furnishings?
 
 **Job**:
 

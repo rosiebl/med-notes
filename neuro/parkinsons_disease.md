@@ -124,7 +124,7 @@ SEs: postural hypotension, atrial fibrillation.
 
 Other options include:
 
-**Apomorphine**: potent dopamine agonist, continuous SC infusion to even out end-of-dose effects/resuce pen for sudden 'off' freezing.
+**Apomorphine**: potent dopamine agonist, continuous SC infusion to even out end-of-dose effects/rescue pen for sudden 'off' freezing.
 
 Anticholinergics, e.g. **benzhexol, orphenadrine**, help tremor but cause confusion in elderly.
 

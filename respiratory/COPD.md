@@ -28,14 +28,9 @@ Emphysema is defined histologically as:
 - enlarged air spaces distal to terminal bronchioles
 - destruction of alveolar walls
 
-________________________
-
 ### EPIDEMIOLOGY
 
 10-20% >40yo
-
-
-________________________
 
 ### PINK PUFFERS/BLUE BLOATERS
 
@@ -60,7 +55,6 @@ Blue bloaters:
 - —> supplemental oxygen should be given with care
 
 
-___
 
 ### SIGNS AND SYMPTOMS
 
@@ -94,7 +88,6 @@ MRC dyspnoea scale
 		4. stops for breath after walking about 100m or after a few minutes on level ground
 		5. too breathless to leave house, or breathless when dressing or undressing
 
-_________________________
 
 ### INVESTIGATIONS
 
@@ -123,8 +116,6 @@ Lung function:
 
 Measure post-bronchodilator spirometry to confirm COPD dx.
 
-_____
-
 ### ASSESSMENT OF SEVERITY
 
 Stage 1 MILD: FEV1 >80% of predicted
@@ -149,8 +140,6 @@ Disability in COPD can be poorly reflected by FEV1 - more complete assessment in
 e.g. can use BODE index - BMI, airflow obstruction, dyspnoea, exercise capacity.
 
 
-_________________________
-
 ### COMPLICATIONS
 
 Acute exacerbations +/- infection.
@@ -164,9 +153,47 @@ Cor pulmonale (oedema, increased JVP)
 Pneumothorax (ruptured bullae)
 
 Lung carcinoma
-____
 
 ### MANAGEMENT - STABLE COPD
+
+	GENERAL
+	
+	stop smoking
+	encourage exercise
+	treat poor nutrition or obesity
+	influenza + pneumococcal vaccination
+	pulmonary rehabilitation/palliative care
+	NIPPV
+	
+	~
+	1st LINE
+	
+	PRN 
+	short-acting muscarinic antagonist (ipratropium)
+	OR
+	short-acting B2 agonist (salbutamol
+	~
+	MILD/MODERATE
+	
+	inhaled long-acting antimuscarinic (tiotropium)
+	OR
+	inhaled long-acting B2 agonist (salmeterol)
+	~
+	SEVERE
+	
+	Combination LABA + corticosteroids e.g. Symbicort (budesonide + formeterol)
+	OR
+	LAMA (tiotropium)
+	~
+	IF REMAIN SYMPTOMATIC
+	
+	tiotropium (LAMA) + inhaled steroid + LABA
+	consider steroid trial, home nebulisers, theophylline.
+	~
+	PULMONARY HYPERTENSION
+	
+	assess need for long-term oxygen therapy 
+	treat oedema with diuretics
 
 #### 1. LIFESTYLE
 
@@ -184,7 +211,7 @@ Usually MRC grade 3 and above.
 
 Incorporates physical training, disease education, nutritional, psychological and behavioural intervention.
 
-#### 2. INHALED THERAPY
+#### 4. INHALED THERAPY
 
 ##### -> Corticosteroids
 
@@ -192,7 +219,7 @@ NB. Response to inhaled corticosteroids not predicted by oral corticosteroid rev
 
 ##### -> Short-acting bronchodilators
 
-Short-acting beta2 agonists (SABA) are initial empriical teratment for relief of breathlessness and exercise limitation.
+Short-acting beta2 agonists (SABA) are initial empirical teratment for relief of breathlessness and exercise limitation.
 
 Also can use short-acting muscarinic antagonist (SAMA) e.g. ipratropium.
 
@@ -206,7 +233,7 @@ Can also add a long-acting beta-agonist.
 
 NB. Inhaled therapy can be delivered by inhaler, spacer or nebuliser.
 
-#### 3. ORAL THERAPY
+#### 5. ORAL THERAPY
 
 ##### -> ORAL CORTICOSTEROIDS
 Maintenance use not usually recommended in COPD. Some pts may require maintenance when oral corticosteroids can't be withdrawn after and exacerbation. Keep dose low as possible.
@@ -219,14 +246,14 @@ Special care needed in older people with this drug.
 ##### -> MUCOLYTIC THERAPY
 Consider in pts with chronic productive cough.
 
-#### 4. COMBINED ORAL/INHALED THERAPY
+#### 6. COMBINED ORAL/INHALED THERAPY
 If pts symptomatic on monotherapy consider combined therapy. Effective combinations:
 
 - beta2 agonist and theophylline
 - anticholinergic and theophylline
 
 
-#### 5. OXYGEN THERAPY
+#### 7. OXYGEN THERAPY
 
 NB. Inappropriate use of oxygen in COPD pts can cause respiratory depression.
 
@@ -241,7 +268,6 @@ May consider ambulatory oxygen therapy for some pts on LTOT.
 
 NIV may be considered for pts who are hypercapnic/acidotic on LTOT.
 
-____
 
 ### MANAGEMENT OF COPD EXACERBATION
 

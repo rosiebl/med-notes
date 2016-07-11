@@ -28,7 +28,7 @@ Malignant/accelerated phase HTN
 
 - rapid rise in BP causing vascular damage
 - pathology: fibrinoid necrosis
-- severe HTN + bilateral retinal haemorrhages, +/- apilloedema
+- severe HTN + bilateral retinal haemorrhages, +/- papilloedema
 - symptoms common: headache, visual disturbance
 - urgent treatment needed
 - may precipitate hypertensive emergencies e.g. acute renal failure, heart failure, encephalopathy
@@ -135,13 +135,15 @@ ______________________
 
 Patients with HTN can change their lifestyle to reduce their BP (modifiable risk factors), e.g.:
 	
-- diet
+- low-fat balanced diet
+- reduce salt intake <6g/d
 - exercise
-- relaxation techniques
 - decrease alcohol intake
 - decrease caffeine intake
-- decrease dietary sodium
 - stop smoking
+- sleep at least 6h/night
+- relaxation techniques
+
 
 Group work can be helpful with this.
 

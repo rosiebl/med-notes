@@ -1,4 +1,4 @@
-# CROHN'S DISEASE
+4# CROHN'S DISEASE
 
 Chronic inflammatory GI disease characterised by **transmural granulomatous inflammation** affecting any part of the gut from **mouth to anus**, with **skip lesions**.
 
