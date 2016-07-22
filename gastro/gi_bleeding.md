@@ -85,7 +85,7 @@ Ask about previous GI problems, drug use, alcohol.
 
 #### ROCKALL SCORE
 
-Heps to predict risk of rebleeding and mortality.
+Helps to predict risk of rebleeding and mortality.
 
 Initial Rockall score, pre-endoscopy:
 
